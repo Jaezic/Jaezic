@@ -35,20 +35,16 @@ I am a software student from South Korea 🇰🇷. I am interested in data scien
 If you want to contact me, please leave me a message!
  
 <br/>
-
+<!--
 ### 💫 Experience
-- **11st** - Data Intelligence, Machine learning developer *(Jan 2021 ~)*
-- **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
-- **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
-  
-
+- **기업** - 부서 , 담당 *(날짜 ~)*
 <br/>  
+-->
 
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
-- 🌱 I'm currently learning Deep Learning, Computer Vision.
+- 🔭 I’m currently learning on [Gachon unviersity] as a college student
 - 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
   
 
