@@ -55,9 +55,9 @@ If you want to contact me, please leave me a message!
 <br/>  
 
 <div sttyle='float:left'>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
 </div>
 
 <br/>  
@@ -66,11 +66,11 @@ If you want to contact me, please leave me a message!
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiyeoon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaezic&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeoon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaezic&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -78,7 +78,7 @@ If you want to contact me, please leave me a message!
 
 
 <!--
-**jiyeoon/jiyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jaezic/jaezic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
