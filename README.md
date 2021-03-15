@@ -45,7 +45,7 @@ If you want to contact me, please leave me a message!
 ### ✨ Summary
 
 - 🔭 I’m currently learning on [Gachon unviersity] as a college student
-- 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
+- 📝 I regularly write articles on [my blog](https://jaezic.github.io).  
   
 
 <br/>  
