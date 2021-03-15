@@ -45,7 +45,7 @@ If you want to contact me, please leave me a message!
 ### ✨ Summary
 
 - 🔭 I’m currently learning on Computer Software as a college student in [Gachon unviersity]
-- 📝 I regularly write articles on [my blog](https://jaezic.github.io).  
+#- 📝 I regularly write articles on [my blog](https://jaezic.github.io).  
   
 
 <br/>  
