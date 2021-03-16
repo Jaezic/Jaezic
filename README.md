@@ -32,7 +32,7 @@ Good day!
 
 I am a software student from South Korea 🇰🇷. I am interested in data science and software, programing langauge. I love reading, exercising and communicating! 
 
-If you want to contact me, please leave me a message!
+If you want to contact me, please contact me as email!
  
 <br/>
 <!--
