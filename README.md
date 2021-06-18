@@ -25,7 +25,7 @@
 
 
 
-### Hello, I'm Mingyu Jeong!
+### Hello, I'm Min-gyu Jeong!
 ### Nickname is Jaezic.
 
 Good day!
