@@ -30,7 +30,7 @@
 
 Good day!
 
-I am a software student from South Korea 🇰🇷. I am interested in data science and software, programing langauge. I love reading, exercising and communicating! 
+I am a software student from South Korea 🇰🇷. I am interested in Data Science and Deep Learning(CV). I love reading, exercising and communicating! 
 
 
 If you want to contact me, please contact me as email!
@@ -46,7 +46,8 @@ If you want to contact me, please contact me as email!
 <div sttyle='float:left'>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="Pytorch" height="25" /> 
 </div>
 
 <br/>  
