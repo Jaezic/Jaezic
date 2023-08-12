@@ -4,8 +4,6 @@
   
 
 <br/>  
-
-## Hi There 👋  
   
 
 <a href="https://github.com/jaezic" target="_blank">
@@ -25,20 +23,16 @@
 
 
 
-### Hello, I'm Min-gyu Jeong!
+### I'm Min-gyu Jeong
 ### Nickname is Jaezic.
 
-Good day!
 
-I am a software student from South Korea 🇰🇷. I am interested in Data Science and Deep Learning(CV). I love reading, exercising and communicating! 
-
-
-If you want to contact me, please contact me as email!
+I am a software student from South Korea 🇰🇷. I am interested in Data Science and Deep Learning(CV). 
 
 
 ### ✨ Summary
 
-- 🔭 I’m currently learning on Computer Software as a college student in [Gachon unviersity]
+- 🔭 I’m currently learning on Computer Software & Computer Vision as a college student in [Gachon unviersity]
 
 
 <br/>  
