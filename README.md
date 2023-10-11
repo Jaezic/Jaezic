@@ -27,12 +27,12 @@
 ### Nickname is Jaezic.
 
 
-I am a software student from South Korea 🇰🇷. I am interested in Data Science and Deep Learning(CV). 
+I am a software student from South Korea 🇰🇷. I am interested in Data Science and Deep Learning(CV), Bulidng a aplication
 
 
 ### ✨ Summary
 
-- 🔭 I’m currently learning on Computer Software & Computer Vision as a college student in [Gachon unviersity]
+- 🔭 I’m currently learning on Front & Backend & Computer Vision as a college student in [Gachon unviersity]
 
 
 <br/>  
